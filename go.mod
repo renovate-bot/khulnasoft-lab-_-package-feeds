@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/hashicorp/golang-lru/v2 v2.0.7
-	github.com/kolo/xmlrpc v0.0.0-20220921171641-a4b6fa1dd06b
+	github.com/kolo/xmlrpc v0.0.0-20220921171641-a4b6fa1dd06b@a4b6fa1dd06b
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/sirupsen/logrus v1.9.3
